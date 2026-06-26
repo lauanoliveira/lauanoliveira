@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="./githubbanner.png" width="100%">
+
 
 <!--
 **lauanoliveira/lauanoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
