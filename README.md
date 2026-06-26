@@ -1,17 +1,75 @@
 <img src="./githubbanner.png" width="100%">
 
+# 👋 Olá, eu sou Lauan
 
-<!--
-**lauanoliveira/lauanoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer in Progress 🌱
 
-Here are some ideas to get you started:
+Atualmente estudo desenvolvimento web com foco em HTML, CSS e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acredito que a melhor forma de aprender é construindo. Por isso gosto de transformar ideias em projetos reais, evoluindo um passo de cada vez enquanto desenvolvo minhas habilidades.
+
+## 💜 Filosofia
+
+Algumas das mudanças mais importantes acontecem em silêncio.
+
+Continuo aprendendo, construindo e evoluindo um passo de cada vez.
+
+Programação, idiomas e projetos pessoais têm algo em comum: todos começam com curiosidade e crescem com dedicação.
+
+## ⭐ Projeto em Destaque
+
+### 🏦 YuroBank
+
+Banco digital fictício desenvolvido para praticar HTML, CSS e JavaScript.
+
+Meu objetivo com o projeto foi reunir design, lógica e experiência do usuário em uma aplicação que parecesse um produto real.
+
+Funcionalidades:
+
+- Sistema de login
+- Saldo dinâmico
+- Extrato
+- Cartão virtual
+- LocalStorage
+- Interface responsiva
+- Mascote interativo
+
+
+## 🌱 Jornada
+
+Meu primeiro projeto foi ShadowBloom.
+
+Hoje continuo evoluindo através do YuroBank e de novos projetos que desenvolvo enquanto estudo programação, design e idiomas.
+
+
+## 🛠️ Tecnologias
+
+HTML • CSS • JavaScript • Git • GitHub
+
+## 🌎 Além da Programação
+
+Também estudo idiomas e gosto de aprender de forma contínua.
+
+- 🇺🇸 Inglês
+- 🇯🇵 Japonês
+- 🇪🇸 Espanhol
+
+Acredito que aprender novas linguagens, sejam elas humanas ou de programação, amplia a forma como enxergamos o mundo.
+
+
+## 📚 Atualmente Aprendendo
+
+- JavaScript
+- Git e GitHub
+- Desenvolvimento Front-end
+- Inglês
+- Japonês
+- Espanhol
+
+
+## 🎯 Objetivo
+
+Busco evoluir como desenvolvedor Front-end e construir projetos cada vez mais completos enquanto me preparo para oportunidades de estágio e desenvolvimento profissional.
+
+
+
