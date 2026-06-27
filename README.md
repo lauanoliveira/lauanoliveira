@@ -67,6 +67,26 @@ Acredito que aprender novas linguagens, sejam elas humanas ou de programação, 
 - Espanhol
 
 
+## 💼 Projetos
+
+### 🏦 YuroBank
+
+Banco digital fictício desenvolvido com HTML, CSS e JavaScript.
+
+🌐 Demo:
+https://lauanoliveira.github.io/YuroBank/
+
+📂 Repositório:
+https://github.com/lauanoliveira/YuroBank
+
+✨ Funcionalidades:
+
+* Sistema de saldo e limite
+* Cartões Yuro Start, Purple, Invest e Black
+* Vídeo de fundo animado
+* Mascote Yuro interativo
+* Interface responsiva
+
 ## 🎯 Objetivo
 
 Busco evoluir como desenvolvedor Front-end e construir projetos cada vez mais completos enquanto me preparo para oportunidades de estágio e desenvolvimento profissional.
