@@ -86,3 +86,11 @@ Acredito que aprender novas linguagens, sejam elas humanas ou de programação, 
 ## 🎯 Objetivo
 
 Busco evoluir como desenvolvedor Front-end e construir projetos cada vez mais completos enquanto me preparo para oportunidades de estágio e desenvolvimento profissional.
+
+---
+
+## 📫 Contato
+
+* ✉️ Email: (lauanoliveira25@gmail.com)
+* 💼 LinkedIn: Em breve
+
